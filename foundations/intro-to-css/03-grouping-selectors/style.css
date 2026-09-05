@@ -7,10 +7,10 @@
 }
 
 .click-button {
-  background-color: #ffff00;
+  background-color: #000000;
+  color: #ffffff;
 }
 
 .dont-click-button {
-  background-color: #000000;
-  color: #ffffff;
+  background-color: #ffff00;
 }
