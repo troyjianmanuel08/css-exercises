@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.dont-click-button,
+.click-button {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.dont-click-button {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.click-button {
+  background-color: #ffff00;
+}
