@@ -18,3 +18,15 @@ body {
 button {
   background: white;
 }
+.card {
+  padding: 16px;
+}
+
+.title {
+  padding: 10px;
+}
+
+.content {
+  padding: 16px 8px;
+  margin-button: 16px;
+}
